@@ -79,8 +79,7 @@ The project was developed using Python and Jupyter Notebook.
 ---
 
 ## ⚙️ Installation
-
-Clone the repository and install the required libraries.
+ install the required libraries.
 
 ```bash
 pip install pandas numpy matplotlib seaborn mlxtend
